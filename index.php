@@ -36,5 +36,5 @@ function split_link($link) {
 	return $split_link;
 }
 
- echo http://mydomainname.com/hash.php?'.split_link(encrypte('https://github.com/ArdiArtani/Google-Drive-Player-Script/','hashv1.00'));
+ echo 'http://mydomainname.com/hash.php?'.split_link(encrypte('https://github.com/ArdiArtani/Google-Drive-Player-Script/','hashv1.00'));
 ?>
