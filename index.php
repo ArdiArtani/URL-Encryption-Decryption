@@ -1,5 +1,9 @@
 <?php
 
+function getBaseURL() {
+	return "http://mydomainname.com/hash.php";
+}
+
 //Encode
 function encrypte($string,$key){
     $returnString = "";
@@ -36,5 +40,47 @@ function split_link($link) {
 	return $split_link;
 }
 
- echo 'http://mydomainname.com/hash.php?'.split_link(encrypte('https://github.com/ArdiArtani/Google-Drive-Player-Script/','hashv1.00'));
+/**
+ * @param string $url_to_encrypt
+ * @return string
+ */
+function encryptURL($url_to_encrypt) {
+	echo getBaseURL() . '?' . split_link(encrypte($url_to_encrypt,'hashv1.00'));
+}
+
+/**
+ * @param string $method GET|POST|DELETE
+ * @return bool
+ */
+function isRequestMethod($method) {
+	$is_equal = $_SERVER['REQUEST_METHOD'] === $method;
+	return $is_equal;
+}
+
+/**
+ * @param string $name
+ * @param mixed $default
+ * @return mixed
+ */
+function getPostedData($name, $default="") {
+	$var = $default;
+	
+	if(isset($_POST) && array_key_exists($name, $_POST)) {
+		$var = $_POST[$name];
+	}
+	
+	return $var;
+}
+
+if (isRequestMethod('POST')){
+	$url_to_encrypt = getPostedData('url');
+	print encryptURL($url_to_encrypt);
+}
+
 ?>
+
+<form action="" method="POST">
+	<label for="input_url">URL para encriptar</label>
+	<input id="input_url" type="text" name="url" />
+	<button type="submit">Enviar</button>
+</form>
