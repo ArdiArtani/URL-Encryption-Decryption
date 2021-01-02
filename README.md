@@ -1,9 +1,7 @@
 # Hash URL
-[![GitHub issues](https://img.shields.io/github/issues/ArdiArtani/Google-Drive-Player-Script.svg)](https://github.com/ArdiArtani/Google-Drive-Player-Script/issues)
-[![GitHub forks](https://img.shields.io/github/forks/ArdiArtani/Google-Drive-Player-Script.svg)](https://github.com/ArdiArtani/Google-Drive-Player-Script/network)
-[![GitHub stars](https://img.shields.io/github/stars/ArdiArtani/Google-Drive-Player-Script.svg)](https://github.com/ArdiArtani/Google-Drive-Player-Script/stargazers)
-[![GitHub license](https://img.shields.io/github/license/ArdiArtani/Google-Drive-Player-Script.svg)](https://github.com/ArdiArtani/Google-Drive-Player-Script/blob/master/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/ArdiArtani/Google-Drive-Player-Script.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FArdiArtani%2FGoogle-Drive-Player-Script)
+[![Build Status](https://img.shields.io/github/forks/ArdiArtani/Hash-URL.svg)](https://github.com/ArdiArtani/Hash-URL)
+[![Build Status](https://img.shields.io/github/stars/ArdiArtani/Hash-URL.svg)](https://github.com/ArdiArtani/Hash-URL)
+[![License](https://img.shields.io/github/license/ArdiArtani/Hash-URL.svg)](https://github.com/ArdiArtani/Hash-URL)
 
 ## Getting Started
 This class can be used to encrypt the values of the parameters passed in the URLs of links. The class uses encoder to encrypt URL parameters.
