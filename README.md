@@ -1,5 +1,5 @@
 # URL Encryption & Decryption
-[![GitHub issues](https://img.shields.io/github/issues/ArdiArtani/URL-Encryption-DecryptionL)](https://github.com/ArdiArtani/URL-Encryption-DecryptionL/issues)
+[![GitHub issues](https://img.shields.io/github/issues/ArdiArtani/URL-Encryption-Decryption)](https://github.com/ArdiArtani/URL-Encryption-Decryption/issues)
 [![GitHub forks](https://img.shields.io/github/forks/ArdiArtani/URL-Encryption-Decryption)](https://github.com/ArdiArtani/URL-Encryption-Decryption/network)
 [![GitHub stars](https://img.shields.io/github/stars/ArdiArtani/URL-Encryption-Decryption)](https://github.com/ArdiArtani/URL-Encryption-Decryption/stargazers)
 [![GitHub license](https://img.shields.io/github/license/ArdiArtani/URL-Encryption-Decryption)](https://github.com/ArdiArtani/URL-Encryption-Decryption/blob/master/LICENSE)
