@@ -1,4 +1,4 @@
-# Hash URL
+# URL Encryption & Decryption
 [![GitHub issues](https://img.shields.io/github/issues/ArdiArtani/Hash-URL)](https://github.com/ArdiArtani/Hash-URL/issues)
 [![GitHub forks](https://img.shields.io/github/forks/ArdiArtani/Hash-URL)](https://github.com/ArdiArtani/Hash-URL/network)
 [![GitHub stars](https://img.shields.io/github/stars/ArdiArtani/Hash-URL)](https://github.com/ArdiArtani/Hash-URL/stargazers)
