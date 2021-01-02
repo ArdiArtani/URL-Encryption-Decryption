@@ -14,7 +14,7 @@ This class can be used to encrypt the values of the parameters passed in the URL
 Put all files into the public_html directory.
 
 ## Usage
-`https://github.com/ArdiArtani/Hash-URL`
+`https://github.com/ArdiArtani/URL-Encryption-Decryption`
 
 ## Versioning
 We use [SemVer](https://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/ArdiArtani/URL-Encryption-Decryption/tags).
