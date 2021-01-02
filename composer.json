@@ -1,4 +1,16 @@
 {
     "name": "ardiartani/hash-url",
-    "type": "library"
+    "type": "library",
+    "description": "This class can be used to encrypt the values of the parameters passed in the URLs of links.",
+    "keywords": ["encrypt","decrypt", "encrypt URLs", "secure URLs"],
+    "homepage": "https://github.com/ArdiArtani/Hash-URL",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ardi Artani",
+            "email": "ardi@a3code.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "stable"    
 }
