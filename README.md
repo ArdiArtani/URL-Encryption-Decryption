@@ -1,7 +1,8 @@
 # Hash URL
-[![Build Status](https://img.shields.io/github/forks/ArdiArtani/Hash-URL.svg)](https://github.com/ArdiArtani/Hash-URL)
-[![Build Status](https://img.shields.io/github/stars/ArdiArtani/Hash-URL.svg)](https://github.com/ArdiArtani/Hash-URL)
-[![License](https://img.shields.io/github/license/ArdiArtani/Hash-URL.svg)](https://github.com/ArdiArtani/Hash-URL)
+[![GitHub issues](https://img.shields.io/github/issues/ArdiArtani/Hash-URL)](https://github.com/ArdiArtani/Hash-URL/issues)
+[![GitHub forks](https://img.shields.io/github/forks/ArdiArtani/Hash-URL)](https://github.com/ArdiArtani/Hash-URL/network)
+[![GitHub stars](https://img.shields.io/github/stars/ArdiArtani/Hash-URL)](https://github.com/ArdiArtani/Hash-URL/stargazers)
+[![GitHub license](https://img.shields.io/github/license/ArdiArtani/Hash-URL)](https://github.com/ArdiArtani/Hash-URL/blob/master/LICENSE)
 
 ## Getting Started
 This class can be used to encrypt the values of the parameters passed in the URLs of links. The class uses encoder to encrypt URL parameters.
