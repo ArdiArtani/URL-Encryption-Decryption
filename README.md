@@ -26,8 +26,6 @@ We use [SemVer](https://semver.org/) for versioning. For the versions available,
 See also the list of [contributors](https://github.com/ArdiArtani/URL-Encryption-Decryption/contributors) who participated in this project.
 
 ## Donate
-* Ripple (XRP): rNbRzhFaX2XQfRzY7CxkDqEHNFBAbCfJML
-* Ethereum (ETC): 0x95082b9016bc6437565cccec38d544d26e7cfbbd
 * Paypal: [Donate](https://www.paypal.me/ArdiArtani)
 
 ## License
